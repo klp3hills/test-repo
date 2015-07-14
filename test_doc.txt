@@ -1,0 +1,1 @@
+This is a test document that I'm creating in the terminal on my Mac and then I'm going to add and commit the changes to my local repo and then push them to my GitHub account.
